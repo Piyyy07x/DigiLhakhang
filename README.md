@@ -24,7 +24,6 @@ Cultural calendar with events, festivals, and booking options
 
 Prototype is live at:
 
-**[https://vercel.com/piyushdudi0247-6898s-projects/v0-monastery360-web-app-2i](https://vercel.com/piyushdudi0247-6898s-projects/v0-monastery360-web-app-2i)**
+**https://digilhakhang.vercel.app/**
 
-**https://v0-monastery360-web-app-2i-qr8c9195e.vercel.app**
 
