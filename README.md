@@ -1,26 +1,30 @@
-# DigiLhakhang web app (Prototype)
+# Monastery360 web app
 
-🌍 Overview
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-DigiLhakhang is a digital heritage platform to preserve and showcase the monasteries of Sikkim.
-Key features include:
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/piyushdudi0247-6898s-projects/v0-monastery360-web-app-2i)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/HRf8TvIbpc3)
 
--360° virtual tours with multilingual narration
+## Overview
 
--Interactive monastery map with travel routes
-
--Digital archives of manuscripts, murals, and documents
-
--AI-powered search and categorization
-
--Smart audio guide with offline support
-
--Cultural calendar with events, festivals, and booking options
-
-**This Is Only Prototype!!**
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
 ## Deployment
 
-Prototype is live at:
+Your project is live at:
 
-**https://v0.app/chat/monastery360-web-app-qsmkkcrjiwV?b=v0-preview-b_Ts3qtDdrEnV&f=1&path=%2F**
+**[https://vercel.com/piyushdudi0247-6898s-projects/v0-monastery360-web-app-2i](https://vercel.com/piyushdudi0247-6898s-projects/v0-monastery360-web-app-2i)**
+
+## Build your app
+
+Continue building your app on:
+
+**[https://v0.app/chat/projects/HRf8TvIbpc3](https://v0.app/chat/projects/HRf8TvIbpc3)**
+
+## How It Works
+
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
