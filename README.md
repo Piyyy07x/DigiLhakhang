@@ -16,11 +16,10 @@ Key features include:
 -Smart audio guide with offline support
 
 -Cultural calendar with events, festivals, and booking options
+**This Is Only Prototype!!**
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/piyushdudi0247-6898s-projects/v0-monastery360-web-app-2i](https://vercel.com/piyushdudi0247-6898s-projects/v0-monastery360-web-app-2i)**
+Prototype is live at:
 
 **https://v0.app/chat/monastery360-web-app-qsmkkcrjiwV?b=v0-preview-b_Ts3qtDdrEnV&f=1&path=%2F**
